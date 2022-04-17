@@ -24,12 +24,16 @@ The 3 arrays can be match to ticker array using the variable **tickerIndex**.
 The running time decreased from 0.78125 seconds to 0.1796875 seconds (-77%) for 2017 and 0.8515625 to 0.203125 (-76%) for 2018.
 * Original 2017
 
+![Original 2017](https://github.com/MarcoFernandez14/stock-analysis/blob/main/Resources/Original%202017.png)
 * Refactored 2017
 
+![Refactored 2017](https://github.com/MarcoFernandez14/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 * Original 2018
 
+![Original 2018](https://github.com/MarcoFernandez14/stock-analysis/blob/main/Resources/Original%202018.png)
 * Refactored 2018
 
+![Refactored 2018](https://github.com/MarcoFernandez14/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
 ## Summary
 ### There is a detailed statement on the advantages and disadvantages of refactoring code in general.
