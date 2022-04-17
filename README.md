@@ -7,7 +7,7 @@ I initially prepared VBA analysis for Steve to help him to evaluate his parent's
 Steve now wants to expand the dataset to include the entire stock market over the last few years. Although the code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
 
 ### Purpose
-The ourpoise is to edit or **refactor** the code to loop through all the data one time in order to collect the same information than in the original analysis but more efficiently. The efficeincy of the code will be evaluated according to the time it takes to run.
+The purpose is to edit or **refactor** the code to loop through all the data one time in order to collect the same information than in the original analysis but more efficiently. The efficiency of the code will be evaluated according to the time it takes to run.
 
 ## Results
 ### Code refactoring.
@@ -37,9 +37,9 @@ The running time decreased from 0.78125 seconds to 0.1796875 seconds (-77%) for 
 
 ## Summary
 ### There is a detailed statement on the advantages and disadvantages of refactoring code in general.
-The main advantage of refactoring code is that it makes it more efficient. The running time reduction can be used to mesure efficiency.
+The main advantage of refactoring code is that it makes it more efficient. The running time reduction can be used to measure efficiency.
 To have an efficient code means that it can handle more data (or the same data using less resources).
-The main disadvante is that we can break the code while refactoring. It is impotant to save the progress and check the output regularly.
+The main disadvantage is that we can break the code while refactoring. It is important to save the progress and check the output regularly.
 ### There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script.
 I think that the only advantage of the original code is that it is easier to read and understand. The refactored code advantages and disadvantages are described in the paragraph above.
 
